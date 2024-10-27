@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xmarcos1922
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning JavaScript, Python, CSS, HTMl.
